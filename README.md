@@ -1,5 +1,6 @@
 # Forget
 Forget is an entrepreneurship project about a store to sell clothes and merchandise
+<a href="https://imrlopezag.github.io/Forget/index.html">Play Demo</a>
 
 <div>
 
